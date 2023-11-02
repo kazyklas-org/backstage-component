@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sre-terraform-datamole
+  annotations:
+    github.com/project-slug: datamole-ai/sre-terraform-datamole
+spec:
+  type: other
+  lifecycle: unknown
